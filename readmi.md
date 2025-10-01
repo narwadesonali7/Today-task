@@ -10,15 +10,13 @@
 8. b-> Build and test simple jobs with GUI-based configuration
 9. c-> terraform plan
 10. a-> GitHub
-    b-> Terraform
-    c-> Jenkins itself
     d->Docker
 11. b-> EC2
 12. a-> Multi-Factor Authentication (MFA)
 13. b-> ansible-playbook
 14. b-> Automating build, test, and  deployment processes
 15. a-> docker start
-16. a-> git revert
+16. a-> git revert d->git reset
 17.
 ![ec2-user](./img/Screenshot%20(2).png)
 
