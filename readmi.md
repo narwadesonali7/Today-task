@@ -20,11 +20,11 @@
 15. a-> docker start
 16. a-> git revert
 17.
-    ![ec2-user](./img/Screenshot%20(2).png)
+![ec2-user](./img/Screenshot%20(2).png)
 
-    ![ec2-user](./img/Screenshot%20(3).png)
+![ec2-user](./img/Screenshot%20(3).png)
 
-    ![ec2-user](./img/Screenshot%20(4).png)
+![ec2-user](./img/Screenshot%20(4).png)
 
 19. 
 
