@@ -19,13 +19,14 @@
 14. b-> Automating build, test, and  deployment processes
 15. a-> docker start
 16. a-> git revert
-17. ![ec2-user](./img/Screenshot%20(2).png)
+17.
+    ![ec2-user](./img/Screenshot%20(2).png)
 
     ![ec2-user](./img/Screenshot%20(3).png)
 
     ![ec2-user](./img/Screenshot%20(4).png)
 
-18. 
+19. 
 
 ![ec2-user](./img/Screenshot%20(5).png)  
 
